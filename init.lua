@@ -1,0 +1,2 @@
+require("dsupru")
+print("hello")
