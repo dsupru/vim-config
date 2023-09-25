@@ -1,2 +1,1 @@
 require("dsupru")
-print("hello")
